@@ -50,7 +50,7 @@ export default function Home() {
                 spy
                 to="Talk"
               >
-                Let's Talk!
+                Lets Talk!
               </Link>
             </li>
           </ul>
